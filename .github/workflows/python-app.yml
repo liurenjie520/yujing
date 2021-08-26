@@ -29,7 +29,7 @@ jobs:
       run: pip install -r requirements.txt
     - name: '开始运行shengcehngcsv22.py'
       env:
-        SCKEY:${{secrets.SCKEY}}
+        SCKEY: ${{ secrets.SCKEY }}
       run: python shengcehngcsv22.py
     - name: commit2
       run: |
