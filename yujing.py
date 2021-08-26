@@ -32,7 +32,7 @@ def yujin():
             typeName = response['warning'][0]['typeName']
             text = response['warning'][0]['text']
 
-            body = f"{text}发送者：{sender}发布时间：{pubTime}开始时间：{startTime}结束时间：{endTime}状态：{status}等级：{level}灾害类型：{typeName}"
+            body = f"{text}  发送者：{sender}  发布时间：{pubTime}  开始时间：{startTime}  结束时间：{endTime}  状态：{status}  等级：{level}  灾害类型：{typeName}"
             # body = f"{text}\n\n发送者：{sender}\n发布时间：{pubTime}\n开始时间：{startTime}\n结束时间：{endTime}\n状态：{status}\n等级：{level}\n灾害类型：{typeName}\n"
             # body=eval(body)
             dd = f"[('{bd}','{body}')]"
