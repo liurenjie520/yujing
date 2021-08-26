@@ -4,10 +4,11 @@ import os
 import requests
 
 def yujin():
+    SCKEY = os.environ["SCKEY"]
     URL = 'https://devapi.qweather.com/v7/warning/now'
 
     params = {
-        'key': '2927f55550ef46b8a867ba1c3141786a',
+        'key': SCKEY,
         'location': '101020100'
     }
 
