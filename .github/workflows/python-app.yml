@@ -7,7 +7,7 @@ on:
   pull_request:
     branches: [ main ]
   schedule:
-    - cron: '0 12 * * *' # 定义 cron 表达式
+    - cron: '* * * * *' # 定义 cron 表达式
   watch:
     types: [started] # 定义star是自动发送
 
