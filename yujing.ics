@@ -4,13 +4,13 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:预警
 X-WR-TIMEZONE:Asia/Shanghai
-X-WR-CALDESC:20210831预警
+X-WR-CALDESC:20210901预警
 BEGIN:VEVENT
 DTSTAMP:20190912T184136Z
-UID:20210831almanac_in_2021
-DTSTART;VALUE=DATE:20210831
-DTEND;VALUE=DATE:20210831
+UID:20210901almanac_in_2021
+DTSTART;VALUE=DATE:20210901
+DTEND;VALUE=DATE:20210901
 DESCRIPTION:
-SUMMARY:『上海中心气象台2021年08月31日13时15分发布高温黄色预警[Ⅲ级/较重]：受西太平洋副热带高压影响，预计今天中心城区、浦东北部、青浦、嘉定、宝山的最高气温将达35℃，请做好防暑降温工作。』    来源：上海中心气象台  发布时间：2021-08-31T13:15+08:00   开始时间：未知   结束时间：未知   状态：active   等级：黄色   灾害类型：高温
+SUMMARY:『上海中心气象台2021年09月01日09时14分发布高温黄色预警[Ⅲ级/较重]：受西太平洋副热带高压影响，预计全市今天的最高气温将超过35℃，请做好防暑降温工作。』    来源：上海中心气象台  发布时间：2021-09-01T09:14+08:00   开始时间：未知   结束时间：未知   状态：active   等级：黄色   灾害类型：高温
 END:VEVENT
 END:VCALENDAR
