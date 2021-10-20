@@ -31,7 +31,7 @@ def sd():
                 body2 = "DTSTART;VALUE=DATE:" + item[0] + "\nDTEND;VALUE=DATE:" + item[0] + "\n"
                 beizhu = "DESCRIPTION:" + "\n"
                 body3 = "SUMMARY:" + item[1] + "\n"
-                tixing0 = "BEGIN:VALARM" + "\n" + "TRIGGER;VALUE=DATE-TIME:" + item[0] + "T080000Z" + "\n"
+                tixing0 = "BEGIN:VALARM" + "\n" + "TRIGGER;VALUE=DATE-TIME:" + item[0] + "T010000Z" + "\n"
                 tixing1 = "ACTION:DISPLAY" + "\n" + "END:VALARM" + "\n"
                 body4 = body_string[1]
                 full_body = body0 + body1 + body2 + beizhu + body3 + tixing0 + tixing1 + body4
