@@ -8,6 +8,7 @@ import datetime
 
 import config
 import yujing
+import shuijishu
 def sd():
     now_time = datetime.datetime.now()
     d = datetime.datetime.now().strftime('%Y%m%d')
@@ -27,7 +28,7 @@ def sd():
         else:
             for item in body:
                 body0 = body_string[0]
-                body1 = item[0] + 'almanac_in_' + config.Default.year + "\n"
+                body1 = item[0] + 'almanac_in_' + shuijishu.suiji() + "\n"
                 body2 = "DTSTART;VALUE=DATE:" + item[0] + "\nDTEND;VALUE=DATE:" + item[0] + "\n"
                 beizhu = "DESCRIPTION:" + "\n"
                 body3 = "SUMMARY:" + item[1] + "\n"
