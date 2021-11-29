@@ -7,11 +7,11 @@ X-WR-TIMEZONE:Asia/Shanghai
 X-WR-CALDESC:20211129预警
 BEGIN:VEVENT
 DTSTAMP:20190912T184136Z
-UID:20211129almanac_in_Hl81vwWX
+UID:20211129almanac_in_WcCjuiSE
 DTSTART;VALUE=DATE:20211129
 DTEND;VALUE=DATE:20211129
 DESCRIPTION:
-SUMMARY:『上海中心气象台2021年11月29日17时00分发布寒潮蓝色预警[Ⅳ级/一般]：受北方强冷空气影响，预计未来48小时内全市最低气温将下降8℃以上，12月1-2日早晨市区最低气温3-4℃，郊区零下1℃到1℃，局部地区有薄冰。』    来源：上海中心气象台  发布时间：2021-11-29T17:00+08:00   开始时间：未知   结束时间：未知   状态：active   等级：蓝色   灾害类型：寒潮
+SUMMARY:『上海中心气象台2021年11月29日22时00分发布大风蓝色预警[Ⅳ级/一般]：受强冷空气影响，30日凌晨全市风力开始逐渐增大，预计30日本市将出现内陆最大阵风7级，沿江沿海地区和江河湖面阵风8级的西北大风，请注意防范。』    来源：上海中心气象台  发布时间：2021-11-29T22:00+08:00   开始时间：未知   结束时间：未知   状态：active   等级：蓝色   灾害类型：大风
 BEGIN:VALARM
 TRIGGER;VALUE=DATE-TIME:20211129T010000Z
 ACTION:DISPLAY
