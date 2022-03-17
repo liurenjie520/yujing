@@ -7,11 +7,11 @@ X-WR-TIMEZONE:Asia/Shanghai
 X-WR-CALDESC:20220317预警
 BEGIN:VEVENT
 DTSTAMP:20190912T184136Z
-UID:20220317almanac_in_AU0suJkL
+UID:20220317almanac_in_LXfAGgj0
 DTSTART;VALUE=DATE:20220317
 DTEND;VALUE=DATE:20220317
 DESCRIPTION:
-SUMMARY:『上海中心气象台2022年03月16日17时00分发布大风蓝色预警[Ⅳ级/一般]：受江淮气旋影响，预计明天（17日）中午起本市大部地区将出现5级阵风6-7级，沿江沿海地区阵风7-8级的东南大风，请注意防范。』    来源：上海中心气象台  发布时间：2022-03-16T17:00+08:00   开始时间：未知   结束时间：未知   状态：active   等级：蓝色   灾害类型：大风
+SUMMARY:『上海中心气象台2022年03月17日16时05分发布大风蓝色预警[Ⅳ级/一般]：受江淮气旋影响，明天中午以前本市大部地区将出现5级阵风6-7级，沿江沿海地区6级阵风7-8级的北到西北大风，请注意防范。』    来源：上海中心气象台  发布时间：2022-03-17T16:05+08:00   开始时间：未知   结束时间：未知   状态：update   等级：蓝色   灾害类型：大风
 BEGIN:VALARM
 TRIGGER;VALUE=DATE-TIME:20220317T010000Z
 ACTION:DISPLAY
