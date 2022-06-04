@@ -7,11 +7,11 @@ X-WR-TIMEZONE:Asia/Shanghai
 X-WR-CALDESC:20220604预警
 BEGIN:VEVENT
 DTSTAMP:20190912T184136Z
-UID:20220604almanac_in_ouKJG12q
+UID:20220604almanac_in_bhp7l1JL
 DTSTART;VALUE=DATE:20220604
 DTEND;VALUE=DATE:20220604
 DESCRIPTION:
-SUMMARY:『上海中心气象台2022年06月05日02时50分发布雷电黄色预警[Ⅲ级/较重]：受雷暴云团影响， 预计今天中午以前全市大部自北向南将先后发生雷电活动，雷雨时伴有1小时20-30毫米的短时强降水。』    来源：上海中心气象台  发布时间：2022-06-05T02:50+08:00   开始时间：未知   结束时间：未知   状态：active   等级：黄色   灾害类型：雷电
+SUMMARY:『上海中心气象台2022年06月05日04时00分发布暴雨蓝色预警[Ⅳ级/一般]：受较强的降水云团影响，预计未来12小时内中心城区、浦东、崇明、松江、青浦、闵行、嘉定、宝山将出现6小时累积降雨量50毫米以上的强降水，请注意防范。』    来源：上海中心气象台  发布时间：2022-06-05T04:00+08:00   开始时间：未知   结束时间：未知   状态：active   等级：蓝色   灾害类型：暴雨
 BEGIN:VALARM
 TRIGGER;VALUE=DATE-TIME:20220604T010000Z
 ACTION:DISPLAY
