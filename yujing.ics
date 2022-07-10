@@ -7,11 +7,11 @@ X-WR-TIMEZONE:Asia/Shanghai
 X-WR-CALDESC:20220710预警
 BEGIN:VEVENT
 DTSTAMP:20190912T184136Z
-UID:20220710almanac_in_A9rLB5Tg
+UID:20220710almanac_in_r5yLZDNR
 DTSTART;VALUE=DATE:20220710
 DTEND;VALUE=DATE:20220710
 DESCRIPTION:
-SUMMARY:『上海中心气象台2022年07月10日09时12分发布高温橙色预警[Ⅱ级/严重]：受副热带高压影响，预计今天本市大部地区的最高气温将超过37℃，请加强做好防暑降温工作。』    来源：上海中心气象台  发布时间：2022-07-10T09:12+08:00   开始时间：未知   结束时间：未知   状态：active   等级：橙色   灾害类型：高温
+SUMMARY:『上海中心气象台2022年07月10日14时15分发布高温红色预警[Ⅰ级/特别严重]：受副热带高压影响，目前本市中心城区气温已达40℃，高温橙色预警信号更新为高温红色预警信号。』    来源：上海中心气象台  发布时间：2022-07-10T14:15+08:00   开始时间：未知   结束时间：未知   状态：update   等级：红色   灾害类型：高温
 BEGIN:VALARM
 TRIGGER;VALUE=DATE-TIME:20220710T010000Z
 ACTION:DISPLAY
