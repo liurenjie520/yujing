@@ -7,11 +7,11 @@ X-WR-TIMEZONE:Asia/Shanghai
 X-WR-CALDESC:20220715预警
 BEGIN:VEVENT
 DTSTAMP:20190912T184136Z
-UID:20220715almanac_in_l0O5jEHf
+UID:20220715almanac_in_1jYob62m
 DTSTART;VALUE=DATE:20220715
 DTEND;VALUE=DATE:20220715
 DESCRIPTION:
-SUMMARY:『上海中心气象台2022年07月15日12时45分发布雷电黄色预警[Ⅲ级/较重]：预计今天午后到夜里本市大部分地区将发生雷电活动，并伴有最大小时雨强20-40mm的短时强降水。』    来源：上海中心气象台  发布时间：2022-07-15T12:45+08:00   开始时间：未知   结束时间：未知   状态：active   等级：黄色   灾害类型：雷电
+SUMMARY:『上海中心气象台2022年07月15日15时00分发布大风黄色预警[Ⅲ级/较重]：受雷暴云团影响，预计未来12小时内本市大部分地区将出现8-10级雷雨大风，请加强防范。』    来源：上海中心气象台  发布时间：2022-07-15T15:00+08:00   开始时间：未知   结束时间：未知   状态：active   等级：黄色   灾害类型：大风
 BEGIN:VALARM
 TRIGGER;VALUE=DATE-TIME:20220715T010000Z
 ACTION:DISPLAY
