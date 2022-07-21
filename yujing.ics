@@ -7,11 +7,11 @@ X-WR-TIMEZONE:Asia/Shanghai
 X-WR-CALDESC:20220721预警
 BEGIN:VEVENT
 DTSTAMP:20190912T184136Z
-UID:20220721almanac_in_EvIRqFmd
+UID:20220721almanac_in_IzOgZ8EN
 DTSTART;VALUE=DATE:20220721
 DTEND;VALUE=DATE:20220721
 DESCRIPTION:
-SUMMARY:『上海中心气象台2022年07月21日11时05分发布高温黄色预警[Ⅲ级/较重]：受副热带高压边缘影响，预计中心城区、浦东、闵行等地今天的最高气温将超过35℃，请做好防暑降温工作。』    来源：上海中心气象台  发布时间：2022-07-21T11:05+08:00   开始时间：未知   结束时间：未知   状态：active   等级：黄色   灾害类型：高温
+SUMMARY:『上海中心气象台2022年07月21日12时33分发布雷电黄色预警[Ⅲ级/较重]：预计今天半夜以前本市中部和南部地区将发生雷电活动，并伴有一小时20-30mm的短时强降水和7-9级雷雨大风。』    来源：上海中心气象台  发布时间：2022-07-21T12:33+08:00   开始时间：未知   结束时间：未知   状态：active   等级：黄色   灾害类型：雷电
 BEGIN:VALARM
 TRIGGER;VALUE=DATE-TIME:20220721T010000Z
 ACTION:DISPLAY
